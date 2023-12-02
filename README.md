@@ -26,6 +26,7 @@
 
 ### Follow My Github Account [Link](https://github.com/akashdeep023)
 ## Example Image..
-<img src="./assets/start.jpg" height='100%' width='200px'>
-<img src="./assets/final.jpg" height='100%' width='200px'>
 
+![start](https://github.com/akashdeep023/Hack_Github_Graph/assets/126412088/4e1d1a46-d183-40a9-a7ec-6220247ef162)
+
+![final](https://github.com/akashdeep023/Hack_Github_Graph/assets/126412088/2503e969-ea58-4a88-bf3b-90682565fac0)
