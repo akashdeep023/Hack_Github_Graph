@@ -1,0 +1,15 @@
+{
+  "name": "hack_github_graph",
+  "version": "1.0.0",
+  "description": "Hack Github Graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akashdeep",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^3.21.0"
+  }
+}
