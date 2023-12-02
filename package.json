@@ -7,9 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akashdeep",
+<<<<<<< HEAD
   "license": "ISC",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "simple-git": "^3.21.0"
   }
+=======
+  "license": "ISC"
+>>>>>>> 94ad9128cf4b4470448ce381edf7885589d76e07
 }
